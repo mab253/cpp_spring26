@@ -3,7 +3,7 @@
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other communities. In our class, we will use the Discord platform for questions, discussions, sharing resources, etc: 
-<img width="1316" height="785" alt="Screenshot 2025-08-25 at 6 09 14 PM" src="https://github.com/user-attachments/assets/5119bd86-6690-461a-ad4c-0c654e6e4939" />
+<img width="1429" height="880" alt="Screenshot 2026-01-25 at 23 42 46" src="https://github.com/user-attachments/assets/d1fa6bee-c46b-4396-9391-8638ac75bcb3" />
 
 
 
