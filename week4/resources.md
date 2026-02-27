@@ -1,6 +1,7 @@
 ## 🤖 other resources: week 4
 
 other practice + info on loops, random numbers, and other topics this week:
+- **🖥️ in-class code** number guessing game [code here](https://shorturl.at/N11XS)
 - codecademy, [loops cheatsheet](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-loops/cheatsheet), `while` vs. `for` in 1 place
 - [Project Euler](https://projecteuler.net/) - you can join, you already have the first solution! (problem #1)
 - [Colossal Cave Adventure](https://grack.com/demos/adventure/) in the browser
