@@ -125,7 +125,7 @@ zyBooks Week 7 Lab: DUE SUNDAY Mar. 22, 11:59pm
 
 ---
 
-**Week 8: Mar. 23 & Mar. 27** \
+**Week 8: Mar. 23 & Mar. 25** \
 *MID-TERM & Review*
 
 💥🤖 _in-class and at-home project work required!_
