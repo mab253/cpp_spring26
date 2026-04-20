@@ -167,7 +167,7 @@ zyBooks Week 11 Lab: DUE Apr. 24, 11:59pm
 *Pointers*
 
 **Assignments:** \
-zyBooks Week 12 Readings & Lab: DUE Apr. 29, 11:59pm 
+zyBooks Week 12 Readings & Lab: DUE May 1, 11:59pm 
 
 ---
 
