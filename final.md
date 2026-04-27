@@ -58,7 +58,7 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 
 ## Due Dates
 
-1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by Friday May 1st.** You will need to fill out [this form](https://airtable.com/appbqrZUDUsULkaDS/shrCdAh6tbOMoCWYV) to share your project choice and your partner by 11:59pm on Dec. 3rd. **Note:** on 👈 this form, if you would like me to match you with a partner, you can choose this preference.
+1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by Friday May 1st.** You will need to fill out [this form](https://airtable.com/appbqrZUDUsULkaDS/shrCdAh6tbOMoCWYV) to share your project choice and your partner by 11:59pm on May 1. **Note:** on 👈 this form, if you would like me to match you with a partner, you can choose this preference.
 
 2. Final project delivery, including short reflection texts and code, due **Monday, May 18th** @ 11:59pm. I will share a submission form and requirements closer to this due date.
 
