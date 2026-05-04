@@ -67,3 +67,21 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 - **No late work accepted for final projects.** It's too close to when final grades are due! If you have an accomodation, _you need to tell me this beforehand_.
 - **Remember to add comments and [CITE YOUR SOURCES!](https://github.com/mab253/cpp_spring26/blob/main/ai-citations.md)**
 - [Academic honesty](https://github.com/mab253/cpp_spring26#academic-honesty-and-integrity), as always, applies to this assignment - even more so as this should represent your own work, as this is not a lab/practice problem. Violations of the academic honesty policy will have serious consequences, _including but not limited to failing this course_. **Do not plagiarize writing or code!**
+
+### partner matches:
+(05/04/2026)
+
+Zeqin C - Brandon C.
+Jean S - Matthew D.
+Zahra H - Samantha G.
+Robert C - Daniel A.
+Kelvin O - Justin G
+Eduarda R. - Alexis P.
+Arham S. - Azeez S.
+Tao R. - Josiah W. 
+Hsu Y - Juliet J
+Zilong L.Y. - Le Tian F.W.
+Haroon A. - Colin R.
+Rafia T. - Zakai M. - Muhammad H. 
+Antony J. - Marcos O. 
+Faysal R. - Luis F.
