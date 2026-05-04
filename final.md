@@ -71,17 +71,17 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 ### partner matches:
 (05/04/2026)
 
-Zeqin C - Brandon C.
-Jean S - Matthew D.
-Zahra H - Samantha G.
-Robert C - Daniel A.
-Kelvin O - Justin G
-Eduarda R. - Alexis P.
-Arham S. - Azeez S.
-Tao R. - Josiah W. 
-Hsu Y - Juliet J
-Zilong L.Y. - Le Tian F.W.
-Haroon A. - Colin R.
-Rafia T. - Zakai M. - Muhammad H. 
-Antony J. - Marcos O. 
-Faysal R. - Luis F.
+Zeqin C - Brandon C. \
+Jean S - Matthew D. \ 
+Zahra H - Samantha G. \
+Robert C - Daniel A. \
+Kelvin O - Justin G. \
+Eduarda R. - Alexis P. \
+Arham S. - Azeez S. \
+Tao R. - Josiah W. \ 
+Hsu Y - Juliet J. \
+Zilong L.Y. - Le Tian F.W. \
+Haroon A. - Colin R. \
+Rafia T. - Zakai M. - Muhammad H. \
+Antony J. - Marcos O. \
+Faysal R. - Luis F. \
