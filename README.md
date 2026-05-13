@@ -187,11 +187,10 @@ work on projects!
 
 ---
 
-**Week 15: May 18** \
-*Special Topics TBD*
+**Week 15: May 18** 💥 **NO CLASS!** 
 
 **Assignment:** \
-work on projects!
+work on projects! (due Mon. 18th @ 11:59pm)
 
 ---
 
