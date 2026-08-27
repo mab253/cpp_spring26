@@ -3,8 +3,7 @@
 _Mar. 23 - Mar. 27, 2026_ \
 **due: Fri. Mar. 27 @ 5:59pm NYC-time 🌱**  
 
-👯👯‍♀️👯‍♂️ [**TEAMS**](https://airtable.com/appbqrZUDUsULkaDS/shro2kDATaXiRuxb9)
-
+<!--
 
 ![400-DALL·E 2024-10-20 21 53 16 - A photorealistic image of two lifelike
 cats wearing subtle 90s-style cyberpunk enhancements, such as glowing
@@ -112,5 +111,5 @@ many times as you need before the deadline.
 - **Each team member** needs to submit code via zyBooks 16.40, even if
 your team's code is exactly the same.
 
-👽 Good luck and happy coding!
+👽 Good luck and happy coding!-->
 
